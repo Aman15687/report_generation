@@ -31,4 +31,15 @@ The Report Generation System is a Python-based application that automates the cr
 ---
 
 ## 📂 Project Structure
+📁 report-generator/
+├── data/ # Raw data sources
+├── output/ # Generated reports
+├── templates/ # Templates for reports
+├── report_generator.py # Main Python script
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
+
+yaml
+Copy
+Edit
 
